@@ -1,0 +1,21 @@
+h1 {
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 180px;
+    font-family: cursive;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/gradient-purple-color-background-modern-wave-abstract-designs_343694-2361.jpg?semt=ais_hybrid&w=740&q=80");
+    background-repeat: no-repeat;            /*Prevent the image from repeating */
+    background-size: cover;                      /*cover the backdrop fully*/
+}
+
+#clock {
+    text-align: center;
+    font-size: 150px;
+    color: rgb(252, 170, 238);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+}
